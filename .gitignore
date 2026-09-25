@@ -1,0 +1,4 @@
+respiratory_env/
+*.wav
+__pycache__/
+.DS_Store
