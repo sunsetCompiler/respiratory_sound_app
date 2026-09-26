@@ -605,8 +605,8 @@ import matplotlib.pyplot as plt
 # CONFIGURATION
 # ============================================================
 
-BINARY_MODEL_PATH = r"C:\Users\gonth\Downloads\siglip2_asthma_healthy_final.pt"
-MULTICLASS_MODEL_PATH = r"C:\Users\gonth\Downloads\siglip2_asthma_multiclass_final.pt"
+BINARY_MODEL_PATH = "siglip2_asthma_healthy_final.pt"
+MULTICLASS_MODEL_PATH = "siglip2_asthma_multiclass_final.pt"
 
 MODEL_ID = "google/siglip2-base-patch16-224"
 
